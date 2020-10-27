@@ -1,4 +1,4 @@
-# 집중 시험 테스트 프로젝트 (출처 : https://github.com/spring-projects/spring-petclinic)
+# 집중 시험 테스트 프로젝트 
 본 프로젝트는 동물 관리를 수행해주는 Spring 기반 웹 서비스이다.
 본 서비스는 테스터들의 역량을 확인하기 위해 등록되었으며, 대상 테스터들은 아래 절차에 따라 서비스를 실행하여 특이사항을 탐지/보고한다.
 
@@ -36,3 +36,6 @@
    
  4) 유의사항
    * 본 웹서비스는 In-Memory DB를 사용하므로, 종료할 경우 추가 정보가 삭제될 수 있음에 유의할 것.
+   
+  
+(출처 : https://github.com/spring-projects/spring-petclinic)
